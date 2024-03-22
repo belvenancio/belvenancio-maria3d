@@ -1,0 +1,43 @@
+body
+{
+    background-color: #383D58;
+    color: white;
+
+
+
+    
+}
+
+
+  .cabeçalho-imagem{
+width: 20%;
+
+
+  }
+
+  .cabecalho {
+    background-color: #383D58;
+    color: white;
+    display:flex;
+    justify-content: space-around;
+    }
+
+    .cabecalho-lista-item{
+      display: inline-block;
+      margin: 0 16px;
+      }
+      * {
+        margin: 0 14px;
+        padding: 20px 0;
+        justify-content: space-around;
+        padding: 20px 0;
+        }
+    
+    
+
+
+
+
+    
+
+
